@@ -28,7 +28,7 @@
                 &trans     &trans       &trans       &trans       &trans       &trans       &trans    &trans    &trans          &trans    &trans    &trans    &trans               &trans
                 &trans     &trans       &trans       &trans       &trans       &trans       &trans    &trans    &kp HOME        &kp PG_UP  &trans  &trans           &trans
                 &trans                  &trans       &trans       &trans       &trans       &trans    &trans    &trans          &kp END   &kp PG_DN &trans          &bt BT_NXT     &trans
-                &trans     &trans       &trans                                              &trans                                                  &bt BT_CLR      &bt BT_PREV     &trans
+                &trans     &trans       &trans                                              &trans                                                  &bt BT_CLR      &bt BT_PREV     &trans 
             >;
         };
     };
